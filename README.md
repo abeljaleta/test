@@ -34,3 +34,9 @@ TODO:
 - [ ] wäsche aufhängen
 - [ ] dokumentieren dokumentieren (meta)
 - [x] fließen lassen
+
+---
+
+alle kritik geht an: `nichts@niemanden.iä`
+
+---
